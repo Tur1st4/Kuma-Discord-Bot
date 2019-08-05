@@ -1,6 +1,6 @@
 # Kuma Bot
 
-![Fundador](https://img.shields.io/badge/Fundador-Tur1st4-red.svg?style=for-the-badge&logo=arch-linux) ![Linguagem](https://img.shields.io/badge/Linguagem-JavaScript-yellow.svg?style=for-the-badge&logo=JavaScript)
+![Fundador](https://img.shields.io/badge/Fundador-Tur1st4-red.svg?style=for-the-badge&logo=arch-linux) ![Linguagem](https://img.shields.io/badge/Linguagem-JavaScript-yellow.svg?style=for-the-badge&logo=JavaScript) [![Discloud](https://img.shields.io/badge/Host-Discloud%20%E2%9D%A4%EF%B8%8F-blue.svg?style=for-the-badge)](https://discloudbot.com/)
 
 Bot criado em JavaScript para ajudar a cuidar do seu servidor!
 
