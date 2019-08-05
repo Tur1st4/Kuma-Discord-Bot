@@ -56,6 +56,11 @@ Para ver os aliases de um comando digite :~ `>_a [nome do comando]` -> exemplo :
 * `convidarservidor`   
 *resposta* :~ cria um convite compartilhável para as pessoas entrarem no servidor.
 
+* `nivel`  
+*uso* :~ [ativar(a), remover(rm)]  
+*resposta* :~ define ou remove os niveis dos usuários no servidor.  
+*exemplos* :~ `>_nivel ativar`, `>_nivel remover`
+
 * `bemvindo`  
 *uso* :~ [id do canal, remover(rm)]  
 *resposta* :~ define ou remove o canal para enviar uma mensagem de boas-vindas.  
