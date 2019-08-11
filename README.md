@@ -42,6 +42,11 @@ Para ver os aliases de um comando digite :~ `>_a [nome do comando]` -> exemplo :
 * `uinfo`  
 *resposta* :~ envia suas informações.
 
+* `bater`  
+*uso* :~ [mencione um membro]  
+*resposta* :~ bate em um membro.  
+*exemplo* :~ `>_bater @Membro`
+
 * `dinheiro`  
 *resposta* :~ mostra a quantia de dinheiro que você possui.
 
@@ -49,6 +54,9 @@ Para ver os aliases de um comando digite :~ `>_a [nome do comando]` -> exemplo :
 *uso* :~ [mencione um membro]  
 *resposta* :~ doa uma quantia de dinheiro para o membro mencionado.  
 *exemplo* :~ `>_doar @Membro`
+
+* `bonusdiario`  
+*resposta* :~ recebe seu bônus diário.
 
 * `servidor`  
 *resposta* :~ envia as informações do servidor.
@@ -95,6 +103,11 @@ Para ver os aliases de um comando digite :~ `>_a [nome do comando]` -> exemplo :
 *uso* :~ [mencione um membro] [motivo]  
 *resposta* :~ expulsa o membro e envia uma mensagem com as informações.  
 *exemplo* :~ `>_cargo @Membro Enviou imagens impróprias`
+
+* `banleve`
+*uso* :~ [mencione um membro] [motivo]  
+*resposta* :~ bane e remove o ban quase instantaneamente.  
+*exemplo* :~ `>_banleve @Membro Enviou imagens imprórias`
 
 * `banir`  
 *uso* :~ [mencione um membro] [motivo]  
