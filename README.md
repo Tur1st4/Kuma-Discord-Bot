@@ -48,8 +48,13 @@ Para ver os aliases de um comando digite :~ `>_a [nome do comando]` -> exemplo :
 
 * `bater`  
 *uso* :~ [mencione um membro]  
-*resposta* :~ bate em um membro.  
+*resposta* :~ bate no membro mencionado.  
 *exemplo* :~ `>_bater @Membro`
+
+* `chutar`
+*uso* :~ [mencione um membro]
+*resposta* :~ chuta o membro mencionado.
+*exemplo* :~ `>_chutar @Membro`
 
 * `dinheiro`  
 *resposta* :~ mostra a quantia de dinheiro que você possui.
@@ -103,10 +108,10 @@ Para ver os aliases de um comando digite :~ `>_a [nome do comando]` -> exemplo :
 *resposta* :~ remove o cargo citado do membro mencionado.  
 *exemplo* :~ `>_cargo @Membro 123456789101112`
 
-* `chutar`  
+* `expulsar`  
 *uso* :~ [mencione um membro] [motivo]  
 *resposta* :~ expulsa o membro e envia uma mensagem com as informações.  
-*exemplo* :~ `>_cargo @Membro Enviou imagens impróprias`
+*exemplo* :~ `>_expulsar @Membro Enviou imagens impróprias`
 
 * `banleve`
 *uso* :~ [mencione um membro] [motivo]  
