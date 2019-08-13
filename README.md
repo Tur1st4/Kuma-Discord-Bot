@@ -51,9 +51,9 @@ Para ver os aliases de um comando digite :~ `>_a [nome do comando]` -> exemplo :
 *resposta* :~ bate no membro mencionado.  
 *exemplo* :~ `>_bater @Membro`
 
-* `chutar`
-*uso* :~ [mencione um membro]
-*resposta* :~ chuta o membro mencionado.
+* `chutar`  
+*uso* :~ [mencione um membro]  
+*resposta* :~ chuta o membro mencionado.  
 *exemplo* :~ `>_chutar @Membro`
 
 * `dinheiro`  
