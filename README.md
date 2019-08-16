@@ -2,7 +2,7 @@
 
 ![Fundador](https://img.shields.io/badge/Fundador-Tur1st4-red.svg?style=for-the-badge&logo=arch-linux) ![Linguagem](https://img.shields.io/badge/Linguagem-JavaScript-yellow.svg?style=for-the-badge&logo=JavaScript) [![Discloud](https://img.shields.io/badge/Host-Discloud%20%E2%9D%A4%EF%B8%8F-blue.svg?style=for-the-badge)](https://discloudbot.com/)
 
-## Status :~
+## Status
 
 [![Discord Bots](https://discordbots.org/api/widget/599693638523551904.svg)](https://discordbots.org/bot/599693638523551904)
 
@@ -37,6 +37,12 @@ Para ver os aliases de um comando digite :~ `>_a [nome do comando]` -> exemplo :
 
 * `bee`  
 *resposta* :~ Boop!
+
+* `hiragana`  
+*resposta* :~ Começa um mini-game para testar suas habilidades em um dos silabários da língua japonesa.
+
+* `katakana`  
+*resposta* :~ Começa um mini-game para testar suas habilidades em um dos silabários da língua japonesa.
 
 * `avatar`  
 *uso alternativo* :~ [mencione um usuario]  
