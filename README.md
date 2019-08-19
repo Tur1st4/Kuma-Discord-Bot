@@ -99,11 +99,6 @@ Para ver os aliases de um comando digite :~ `>_a [nome do comando]` -> exemplo :
 *resposta* :~ define ou remove o cargo que será dado quando adicionar um bot.  
 *exemplos* :~ `>_cargobot 123456789101112`, `>_cargobot remover`
 
-* `verificacao`  
-*uso* :~ [ativar(a), remover(rm)]  
-*resposta* :~ ativa ou desativa a verificação ao entrar um usuário.  
-*exemplos* :~ `>_verificacao ativar`, `>_verificacao remover`
-
 * `cargo`
 *uso* :~ [mencione um membro] [id do cargo]  
 *resposta* :~ atribui o cargo citado para o membro mencionado.  
