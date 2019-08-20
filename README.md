@@ -52,6 +52,10 @@ Para ver os aliases de um comando digite :~ `>_a [nome do comando]` -> exemplo :
 * `uinfo`  
 *resposta* :~ envia suas informações.
 
+* `cookie`  
+*uso* :~ [mencione um membro] [mensagem]  
+*resposta* :~ envia um cookie para o membro mencionado com uma mensagem. (custo :~ 10 moedas)
+
 * `bater`  
 *uso* :~ [mencione um membro]  
 *resposta* :~ bate no membro mencionado.  
