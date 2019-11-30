@@ -38,7 +38,7 @@ Comandos | Como usar | Exemplo
 ---------|-----------|----------
 avatar | [marcar usuario] | @Membro
 banir | [marcar usuario] [motivo] | @Membro Falou besteira
-banlee | [marcar usuario] [motivo] | @Membro Falou besteira
+banleve | [marcar usuario] [motivo] | @Membro Falou besteira
 cargo | [marcar usuario] [marcar cargo] | @Membro @Cargo
 expulsar | [marcar membro] [motivo] | @Membro Falou besteira
 limpar | [numero de 1 a 100] | 49
