@@ -54,9 +54,13 @@ uinfo | [marcar membro] | @Membro
 
 Comandos | Como usar | Exemplo
 ---------|-----------|----------
+baka | -=-=-=- | -=-=-=-
 bater | [marcar membro] | @Membro
 bee | -=-=-=- | -=-=-=-
 gado | [marcar membro] | @Membro
+neko | -=-=-=- | -=-=-=-
+slap | -=-=-=- | -=-=-=-
+smug | -=-=-=- | -=-=-=-
 
 ## Comandos de economia
 
