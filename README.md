@@ -69,7 +69,7 @@ Comandos | Como usar | Exemplo
 bonusdiario |  -=-=-=- |  -=-=-=-
 cookie | [marcar membro] [mensagem] | @Membro Você é legal
 dinheiro |  -=-=-=- |  -=-=-=-
-doar | [marcar membro] | @Membro
+doar | [marcar membro] [quantia de moedas] | @Membro 1000
 nivel |  -=-=-=- |  -=-=-=-
 
 ## Extras ou aleatórios
