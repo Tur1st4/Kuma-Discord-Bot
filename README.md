@@ -8,9 +8,9 @@
 
 Bot criado em JavaScript para ajudar a cuidar do seu servidor!
 
-[![Adicionar o Kuma no seu servidor](https://i.imgur.com/mvYkymB.png)](https://discordapp.com/api/oauth2/authorize?client_id=599693638523551904&permissions=8&scope=bot)
+[![Adicionar a Kuma no seu servidor](https://i.imgur.com/lemmiE8.png)](https://discordapp.com/api/oauth2/authorize?client_id=599693638523551904&permissions=8&scope=bot)
 
-[![Suporte](https://i.imgur.com/sTHMEI4.png)](https://discordapp.com/invite/dtw2VXY)
+[![Suporte](https://i.imgur.com/k1aRrlt.png)](https://discordapp.com/invite/dtw2VXY)
 
 ## Funções
 
