@@ -12,7 +12,7 @@ Ele ainda está em fase de testes, mas já notifica suas lives na Twitch! Agora 
 
 Bem, mas o que é tudo isso? O 1° é o canal de texto que você quer que eu envie a mensagem da sua live, o 2° é o usuário que você usa na Twitch, lembra quando você faz login? Esse mesmo! Você também pode encontrar na sua URL: `twitch.tv/diolinux`, só escrever o que está depois do `/`. 
 
-E por fim temos o cargo que você quer que eu marque, isso serve para avisar os membros que estão em algum cargo para receber a notificação, caso não queira, não precisa colocar. Ainda não tenho a opção de `@everyone`, mas meu desenvolvedor disse que já está chegando! Vou cobrar ele, pode deixar comigo!
+E por fim temos o cargo que você quer que eu marque, isso serve para avisar os membros que contém esse cargo, caso não queira, não precisa colocar. Ainda não tenho a opção de `@everyone`, mas meu desenvolvedor disse que já está chegando! Vou cobrar ele, pode deixar comigo!
 
 
 Fique de olho nas novidades entrando no meu servidor. QUalquer novidade vai ser avisada primeiramente lá!
