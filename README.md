@@ -2,6 +2,21 @@
 
 [![Fundador](https://img.shields.io/badge/Fundador-Tur1st4-red.svg?style=for-the-badge&logo=arch-linux)](https://github.com/Tur1st4/) [![Linguagem](https://img.shields.io/badge/Linguagem-JavaScript-yellow.svg?style=for-the-badge&logo=JavaScript)](https://discord.js.org/#/) [![Discloud](https://img.shields.io/badge/Host-Discloud%20%E2%9D%A4%EF%B8%8F-blue.svg?style=for-the-badge)](https://discloudbot.com/)
 
+## Novidades!!!
+
+![Novo comando!](https://i.imgur.com/Zv8dZTG.png)
+
+Meu mais novo comando! `>_Twitch`
+
+Ele ainda está em fase de testes, mas já notifica suas lives na Twitch! Agora vamos ver como usar... `>_twitch [mencione um canal][usuário] [mencione um cargo]`; Exemplo: `>_twitch #lives diolinux @Usuario`.
+
+Bem, mas o que é tudo isso, o 1° é o canal de texto que você quer que eu envie a mensagem da sua live, o 2° é o usuário que você usa na Twitch, lembra quando você faz login? Esse mesmo! Você também pode encontrar na sua URL: `twitch.tv/diolinux`, só escrever o que está depois do `/`. 
+
+E por fim temos o cargo que você quer que eu marque, isso serve para avisar os membros que estão em algum cargo para receber a notificação, caso não queira, não precisa colocar. Ainda não tenho a opção de `@everyone`, mas meu desenvolvedor disse que já está chegando! Vou cobrar ele, pode deixar comigo!
+
+
+Fique de olho nas novidades entrando no meu servidor. QUalquer novidade vai ser avisada primeiramente lá!
+
 ## Status
 
 [![Discord Bots](https://discordbots.org/api/widget/599693638523551904.svg)](https://discordbots.org/bot/599693638523551904)
