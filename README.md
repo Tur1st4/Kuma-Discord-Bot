@@ -15,7 +15,7 @@ Bem, mas o que é tudo isso? O 1° é o canal de texto que você quer que eu env
 E por fim temos o cargo que você quer que eu marque, isso serve para avisar os membros que contém esse cargo, caso não queira, não precisa colocar. Ainda não tenho a opção de `@everyone`, mas meu desenvolvedor disse que já está chegando! Vou cobrar ele, pode deixar comigo!
 
 
-Fique de olho nas novidades entrando no meu servidor. QUalquer novidade vai ser avisada primeiramente lá!
+Fique de olho nas novidades entrando no meu servidor. Qualquer novidade vai ser avisada primeiramente lá!
 
 ## Status
 
