@@ -94,3 +94,4 @@ Comandos | Como usar | Exemplo
 bitcoin | -=-=-=- | -=-=-=-
 dolar | -=-=-=- | -=-=-=-
 github | [nome do usuario] | Tur1st4
+twitch | [mencionar canal] [usuário] [mencionar cargo] | #lives diolinux @Usuário
